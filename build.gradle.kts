@@ -7,7 +7,7 @@ buildscript {
     repositories {
         google()
         mavenCentral()
-        // this is just change Shitpack repo which contains our tools and dependencies
+        //  repo which contains our tools and dependencies...
         maven("https://jitpack.io")
     }
 
