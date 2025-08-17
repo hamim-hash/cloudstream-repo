@@ -7,15 +7,14 @@
         "status": 1,
         "language": "en",
         "authors": [
-            "Cloudburst",
-            "Luna712"
+            "Hamim"
         ],
         "tvTypes": [
-            "Movie"
+            "NSFW"
         ],
         "version": 1,
-        "internalName": "ExampleProvider",
-        "description": "Lorem ipsum",
+        "internalName": "Hahomoe Provider",
+        "description": "18+ repo",
         "url": "https://raw.githubusercontent.com/hamim-hash/cloudstream-repo/builds/ExampleProvider.cs3",
         "name": "ExampleProvider"
     }
