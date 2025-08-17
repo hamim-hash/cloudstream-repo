@@ -51,7 +51,7 @@ subprojects {
         }
 
         compileOptions {
-            sourceCompatibility = JavaVersion.VERSION_1_8
+            sourceCompatibility = JavaVersion.VERSION_1_8   //test commit
             targetCompatibility = JavaVersion.VERSION_1_8
         }
 
