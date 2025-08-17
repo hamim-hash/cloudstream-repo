@@ -1,0 +1,8 @@
+{
+    "name": "Hamim Repo",
+    "description": "18+ Repository",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/hamim-hash/cloudstream-repo/refs/heads/builds/plugins.json"
+    ]
+}
