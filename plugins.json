@@ -10,12 +10,14 @@
             "Hamim"
         ],
         "tvTypes": [
-            "NSFW"
+            "Anime",
+            "OVA",
+            "AnimeMovie"
         ],
-        "version": 1,
-        "internalName": "Hahomoe Provider",
-        "description": "18+ repo",
-        "url": "https://raw.githubusercontent.com/hamim-hash/cloudstream-repo/builds/AnimeKai.cs3",
-        "name": "Kai Provider"
+        "version": 28,
+        "internalName": "AnimeKai",
+        "description": "Animes & Animes Movie",
+        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/AnimeKai.cs3",
+        "name": "AnimeKai"
     }
 ]
