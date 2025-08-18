@@ -1,6 +1,6 @@
 {
     "name": "Hamim Repo",
-    "description": "18+ Repository",
+    "description": "Anime Repository",
     "manifestVersion": 1,
     "pluginLists": [
       "https://raw.githubusercontent.com/hamim-hash/cloudstream-repo/refs/heads/builds/plugins.json"
